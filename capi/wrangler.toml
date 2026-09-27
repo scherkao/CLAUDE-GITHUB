@@ -1,0 +1,6 @@
+name = "mirelyae-capi"
+main = "worker.js"
+compatibility_date = "2026-09-01"
+
+[vars]
+# META_TEST_EVENT_CODE = "TEST12345"   # décommenter pendant les tests, retirer ensuite
